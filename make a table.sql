@@ -9,7 +9,18 @@ create table task
  );
  
  insert into task
+ (
+  first_name,
+  last_name,
+  task_no ,
+  task_name 
+  )
  values
  (
+   'sam',
+   'boyka',
+   01,
+   sex
+  );
   
   
